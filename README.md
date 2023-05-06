@@ -27,6 +27,7 @@ https://www.kaggle.com/datasets/ashfakyeafi/road-vehicle-images-dataset
 **License Plate Detection:**
 https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
 
+**VD-results** and **LPD-results** contain graphs obtained while training the Vehicle Detection and License Plate detection models respectively
 
 ## Using the model
 Run the start.py file.
