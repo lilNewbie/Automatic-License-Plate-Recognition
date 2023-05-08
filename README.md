@@ -30,9 +30,10 @@ https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
 **VD-results** and **LPD-results** contain graphs obtained while training the Vehicle Detection and License Plate detection models respectively
 
 ## Using the model
-Run the start.py file.
-The path of the video file must be given as input initially.
-Check the log.csv file for the results.
+- Clone the repository and add the input video file.
+- Run the start.py file.
+- The path of the video file must be given as input initially.
+- Check the log.csv file for the results.
 
 ## Improvements
 - better datasets to train the YOLO models to maximise performance.
