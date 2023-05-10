@@ -2,8 +2,8 @@ from ocr import recogFunc
 from ultralytics import YOLO
 from crop import cropFunc2
 from crop import drawFrame
-model = YOLO("Automatic-License-Plate-Recognition\model\lpd.pt")
-model2 = YOLO(r"Automatic-License-Plate-Recognition\model\vehicle.pt")
+model = YOLO("model\lpd.pt")
+model2 = YOLO(r"model\vehicle.pt")
 
 def detection(img):
     res = model2(img, conf=0.4)
