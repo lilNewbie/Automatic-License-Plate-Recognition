@@ -35,9 +35,6 @@ https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
 - The path of the video file must be given as input initially.
 - Check the log.csv file for the results.
 
-## Improvements
-- better datasets to train the YOLO models to maximise performance.
-- better OCR by preprocessing and better license-plate acceptance logic.
 
 
 
